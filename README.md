@@ -7,7 +7,6 @@ I am a **Computer Science graduate from Umma University** with a strong interest
 I am passionate about building practical technology solutions, solving real-world problems, and continuously developing my technical and professional skills.
 
 
-
 ## 👨‍💻 About Me
 
 * 🎓 **Bachelor of Science in Computer Science** — Umma University
@@ -99,5 +98,4 @@ I am always interested in:
 * 🤝 Collaboration and open-source projects
 * 🌱 Learning and professional development
 
-**Build. Learn. Innovate. 
-**
+Build. Learn. Innovate. 
