@@ -6,7 +6,7 @@ I am a **Computer Science graduate from Umma University** with a strong interest
 
 I am passionate about building practical technology solutions, solving real-world problems, and continuously developing my technical and professional skills.
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -57,7 +57,6 @@ I am passionate about building practical technology solutions, solving real-worl
 * API Development
 * Data Visualization
 
----
 
 ## 🚀 Projects
 
@@ -67,7 +66,6 @@ I enjoy developing practical systems that address real-world challenges, includi
 * 🧠 **Student Mental Health & Counseling Appointment System** — A web-based platform for managing student counseling appointments.
 * 🌐 Full-stack applications using **React, Flask, REST APIs, and SQL databases**.
 
----
 
 ## 📚 Professional Development
 
@@ -83,7 +81,6 @@ Currently continuing my professional development in **Data Analytics through PLP
 
 Gained practical experience in **IT Support and technology-related activities** through ASAL iLab.
 
----
 
 ## 🎯 Career Goals
 
@@ -91,7 +88,6 @@ My goal is to grow as a **Software Engineer and Data Professional**, combining s
 
 I am committed to **continuous learning, innovation, collaboration, and professional growth**.
 
----
 
 ## 🤝 Let's Connect
 
@@ -103,4 +99,5 @@ I am always interested in:
 * 🤝 Collaboration and open-source projects
 * 🌱 Learning and professional development
 
-**Build. Learn. Innovate. **
+**Build. Learn. Innovate. 
+**
